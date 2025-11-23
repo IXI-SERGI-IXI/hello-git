@@ -1,1 +1,1 @@
-print('Hello world solo')1:19
+print('Hello world solo')
